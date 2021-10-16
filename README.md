@@ -14,7 +14,7 @@
 <p><h2>What are our goals? :seedling:</h2>
 
   Our goal is to make programming tutorials and overview videos in an easy to understand manner.<br>
-  We want to build a friendly community for begineers as well as  to easily interact with.<br>
+  We want to build a friendly community for beginners as well as  to easily interact with.<br>
   We want to guide people who are new to digital world.<br>
   We strive to provide better technological content and education for free.<br>
   And we don't want to be "that" guy, who always asks for money, basically a <i>jerk</i>.
